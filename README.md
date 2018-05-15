@@ -12,8 +12,18 @@ matplotlib (https://matplotlib.org/): This is the backbone of the actual graphin
 
 ## Works Created
 
-![Example of drawing where all base circles are left on](https://github.com/trevorBajkowski/hyperbolicPoincareDiskGeometry/blob/master/pictures/hyperStein.png)
+Example of drawing where all base circles are left on
+---------------
 
-![Example of drawing where all base circles are NOT left on](https://github.com/trevorBajkowski/hyperbolicPoincareDiskGeometry/blob/master/pictures/circleStein.png)
+![](https://github.com/trevorBajkowski/hyperbolicPoincareDiskGeometry/blob/master/pictures/hyperStein.png | width = 150)
 
-![Quick snippet of drawing process!](https://github.com/trevorBajkowski/hyperbolicPoincareDiskGeometry/blob/master/pictures/drawnstein.gif)
+
+Example of drawing where all base circles are NOT left on
+---------------
+
+![](https://github.com/trevorBajkowski/hyperbolicPoincareDiskGeometry/blob/master/pictures/circleStein.png| width = 150)
+
+Quick snippet of drawing process!
+---------------
+
+![](https://github.com/trevorBajkowski/hyperbolicPoincareDiskGeometry/blob/master/pictures/drawnstein.gif | width = 150)
