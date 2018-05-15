@@ -14,16 +14,14 @@ matplotlib (https://matplotlib.org/): This is the backbone of the actual graphin
 
 Example of drawing where all base circles are left on
 ---------------
-
-![](https://github.com/trevorBajkowski/hyperbolicPoincareDiskGeometry/blob/master/pictures/hyperStein.png | width = 150)
+<img src="https://github.com/trevorBajkowski/hyperbolicPoincareDiskGeometry/blob/master/pictures/hyperStein.png" width="200">
 
 
 Example of drawing where all base circles are NOT left on
 ---------------
+<img src="https://github.com/trevorBajkowski/hyperbolicPoincareDiskGeometry/blob/master/pictures/circleStein.png" width="200">
 
-![](https://github.com/trevorBajkowski/hyperbolicPoincareDiskGeometry/blob/master/pictures/circleStein.png| width = 150)
 
 Quick snippet of drawing process!
 ---------------
-
-![](https://github.com/trevorBajkowski/hyperbolicPoincareDiskGeometry/blob/master/pictures/drawnstein.gif | width = 150)
+<img src="https://github.com/trevorBajkowski/hyperbolicPoincareDiskGeometry/blob/master/pictures/drawnstein.gif" width="200">
