@@ -8,3 +8,7 @@ This was a project I worked on for my Non-Euclidean Geometry class at the Univer
 scikit-image (http://scikit-image.org/): I used their canny edge detection to outline Einstein's Face so I could actually draw him.
 
 matplotlib (https://matplotlib.org/): This is the backbone of the actual graphing itself.
+
+
+## Works Created
+
